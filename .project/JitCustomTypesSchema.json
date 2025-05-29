@@ -1,0 +1,51 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "-1241140107",
+        "bundleName": "CustomGptDocumentType1414D16076Db42Cc8Af2F6Ed72A384B8",
+        "entitiesBundle": {
+          "Types": {
+            "CustomGptDocumentType1414D16076Db42Cc8Af2F6Ed72A384B8": {
+              "name": "CustomGptDocumentType1414D16076Db42Cc8Af2F6Ed72A384B8",
+              "properties": [
+                {
+                  "name": "Invoice",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                },
+                {
+                  "name": "BillTo",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                },
+                {
+                  "name": "BalanceDue",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                }
+              ],
+              "baseType": {
+                "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtendedExtractionResultsForDocumentData, UiPath.IntelligentOCR.StudioWeb.Activities"
+              },
+              "generateChangeNotifications": true
+            }
+          },
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.IntelligentOCR.StudioWeb.Activities.SWEntities.CustomGptDocumentType1414D16076Db42Cc8Af2F6Ed72A384B8",
+        "hash": "LTEyNDExNDAxMDc",
+        "assemblyName": "CustomGptDocumentTyp.WLNqE1R3OEH1gcmDq2gJsUo1"
+      }
+    }
+  ]
+}
